@@ -1,0 +1,1 @@
+java -cp .:azure/*:mydedup.jar mydedup.MyDedup upload 128 256 1024 7 license.txt local

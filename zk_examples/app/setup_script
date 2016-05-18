@@ -1,0 +1,4 @@
+#
+# Run as "source setup_script"
+#
+export CLASSPATH=/usr/local/zookeeper-3.4.3/lib/*:/usr/local/zookeeper-3.4.3/zookeeper-3.4.3.jar:.

@@ -1,0 +1,4 @@
+find -name "*.java" > source.txt
+mkdir build
+./compile.sh
+./jar.sh
